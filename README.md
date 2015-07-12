@@ -3,25 +3,25 @@
 The default [Ninja Framework] (http://www.ninjaframework.org/) ported over to use [Rocker templates] (https://github.com/fizzed/rocker).
 
 #Running
+
 1. Start server
 
-In root project directory
+    In root project directory
 
-
-    $ mvn ninja:run
+        $ mvn ninja:run
 
 
 2. Visit server
 
-With browser visit
+    With browser visit
 
-Static page
+    Static page
 
-    $ http:localhost:8080/hello_world
+        $ http://localhost:8080/hello_world
 
-Ninja Framework demo page
+    Ninja Framework demo page
 
-    $ http:localhost:8080
+        $ http://localhost:8080
 
 
 
